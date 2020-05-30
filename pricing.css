@@ -18,3 +18,10 @@ html {
 .card-deck .card {
   min-width: 220px;
 }
+
+body {
+    background-image:url("trees.webp");
+    height:100%;
+    background-position:center;
+    background-repeat:no-repeat;
+}
