@@ -33,9 +33,9 @@ body {
 
 a:hover {
     text-decoration:none;
-    color:white;
+    color:blue;
 }
 
 a:visited {
-    color:white;
+    color:blue;
 }
