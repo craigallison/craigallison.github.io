@@ -29,20 +29,9 @@ body {
 
 .underline {
     text-decoration:underline;
-}
-
-a:hover {
-    text-decoration:none;
-}
-
-a {
-    color:#007bff;
-}
-
-a:visited {
-    color:#007bff;
+    font-weight:600;
 }
 
 .btn {
-    box-shadow:3px 3px;
+    box-shadow:2px 2px;
 }
