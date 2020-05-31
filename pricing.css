@@ -33,13 +33,12 @@ body {
 
 a:hover {
     text-decoration:none;
-    color:blue;
 }
 
 a {
-    color:blue;
+    color:#007bff;
 }
 
 a:visited {
-    color:blue;
+    color:#007bff;
 }
