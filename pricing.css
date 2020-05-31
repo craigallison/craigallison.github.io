@@ -36,6 +36,10 @@ a:hover {
     color:blue;
 }
 
+a {
+    color:blue;
+}
+
 a:visited {
     color:blue;
 }
