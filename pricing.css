@@ -19,7 +19,7 @@ html {
   min-width: 220px;
 }
 
-html {
+body {
     background-image:url("trees.jpg");
     height:100%;
     background-position:center;
