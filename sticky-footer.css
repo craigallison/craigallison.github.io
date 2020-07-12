@@ -4,35 +4,23 @@
     padding: 0 15px;
 }
 
+body {
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+}
+
 .footer {
     background-color: #3d4146;
     color: #f8f8f8;
-    font-size: 11px;
+    font-size: 10px;
 }
 
-.lead, li {
-    font-family: serif;
-    font-size: 14px;
-    text-align: justify;
-    line-height: 16px;
-}
-
-.mt-5 {
-    font-weight: 700;
-    font-size: 22px;
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
 }
 
 h2 {
-    font-weight: 500;
     font-size: 16px;
-}
-
-.techy {
-    font-size: 13px;
-    margin-top: 10px;
-    margin-bottom: 30px;
-}
-
-a {
-    background-color: #efeab3;
+    text-decoration: underline;
 }
