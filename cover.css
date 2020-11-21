@@ -21,7 +21,6 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    -webkit-font-smoothing: subpixel-antialiased;
 }
 
 body {
@@ -90,4 +89,10 @@ margin-bottom: 0;
 footer,
 .nav-link {
     font-size: 14px;
+}
+
+mark {
+    background-color: white;
+    height: 5px;
+    position: absolute;
 }
