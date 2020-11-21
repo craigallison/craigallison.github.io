@@ -80,6 +80,7 @@ margin-bottom: 0;
 .cover .btn-lg {
     padding: .75rem 1.25rem;
     font-weight: 700;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 .mastfoot {
@@ -89,10 +90,4 @@ margin-bottom: 0;
 footer,
 .nav-link {
     font-size: 14px;
-}
-
-mark {
-    background-color: white;
-    height: 5px;
-    position: absolute;
 }
